@@ -1,0 +1,12 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_Shared/_active",
+  "attachmentFolderPath": "_Shared/_assets",
+  "useMarkdownLinks": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "vimMode": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "visible"
+}
