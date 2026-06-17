@@ -27,10 +27,14 @@
             "id": "10ce6fa7510883d2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "test-sync-2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test-sync-2"
             }
           }
         ]
@@ -195,18 +199,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86a50500186a026d",
+  "active": "10ce6fa7510883d2",
   "lastOpenFiles": [
+    "_Shared/_active/Best AI Tools 2026.md",
+    "test-sync.md",
     "live-content/test-github-sync-2026-06-17.md",
-    "Welcome.md",
     "_Shared/_active/hindsight-intel-2026-06-11.md",
+    "live-content/competitors/adipocyde.md",
+    "_Shared/_active/hindsight-intel-2026-06-13.md",
+    "_Shared/Demo-Workflow.md",
+    "Welcome.md",
     "_Shared/_active/README.md",
     "_Shared/_active",
     "_Shared",
     "live-content/products/_INDEX.md",
     "live-content/hooks/_INDEX.md",
     "live-content/funnels/_INDEX.md",
-    "live-content/competitors/adipocyde.md",
     "live-content/competitors/_INDEX.md",
     "live-content/angles/_INDEX.md",
     "live-content/products",
