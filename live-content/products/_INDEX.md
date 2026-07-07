@@ -8,7 +8,7 @@
 
 | Product | Niche | Marketplace | Margin | Status |
 |---------|-------|-------------|--------|--------|
-| *(add first product)* | | | | |
+| [[supplement-overview]] | Health & Wellness | TikTok, Shopee, Lazada | 15–40% | ✅ Research |
 
 ## Product Dossier Template
 

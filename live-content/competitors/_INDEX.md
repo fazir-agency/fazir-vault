@@ -10,7 +10,8 @@
 | Competitor | Niche | Last Updated | Key Threat |
 |------------|-------|-------------|------------|
 | Adipocyde | Weight Loss | TBD | Funnel structure |
-| LabrichProbiotic | Gut Health | TBD | Testimonial quality |
+|| LabrichProbiotic | Gut Health | TBD | Testimonial quality |
+|| Nuvital | Weight Loss | 2026-07-07 | RM1-2M/month across platforms, listing freeze strategy |
 
 ## New Entries
 

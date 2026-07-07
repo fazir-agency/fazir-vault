@@ -9,7 +9,7 @@
 
 | Angle | Product | Platform | Status |
 |-------|---------|----------|--------|
-| *(add first angle)* | | | |
+| [[supplement-angles]] | Supplement (General) | TikTok, FB, Shopee | ✅ Draft |
 
 ## Angle Template
 
