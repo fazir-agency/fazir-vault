@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test-sync-2.md",
+                "file": "test-sync.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test-sync-2"
+              "title": "test-sync"
             }
           }
         ]
@@ -201,6 +201,17 @@
   },
   "active": "10ce6fa7510883d2",
   "lastOpenFiles": [
+    "test-sync-2.md",
+    "strategy/multi-tier-memory-system.md",
+    "strategy/model-switching-guide.md",
+    "strategy",
+    "playbooks/runpod-comfyui-setup.md",
+    "playbooks",
+    "live-content/test-github-sync-$(date +%Y-%m-%d).md",
+    "_Shared/_active/hindsight-intel-2026-06-20.md",
+    "_Shared/_active/hindsight-intel-2026-06-19.md",
+    "_Shared/_active/hindsight-intel-2026-06-18.md",
+    "_Shared/_active/hindsight-intel-2026-06-17.md",
     "_Shared/_active/Best AI Tools 2026.md",
     "test-sync.md",
     "live-content/test-github-sync-2026-06-17.md",
@@ -225,13 +236,6 @@
     "live-content",
     "FazirVault/live-content/products/_INDEX.md",
     "FazirVault/live-content/hooks/_INDEX.md",
-    "FazirVault/live-content/funnels/_INDEX.md",
-    "FazirVault/live-content/competitors/adipocyde.md",
-    "FazirVault/live-content/competitors/_INDEX.md",
-    "FazirVault/live-content/angles/_INDEX.md",
-    "FazirVault/_Shared/_active/hindsight-intel-2026-06-11.md",
-    "FazirVault/_Shared/_active/README.md",
-    "FazirVault/live-content/products",
-    "FazirVault/live-content/hooks"
+    "FazirVault/live-content/funnels/_INDEX.md"
   ]
 }
