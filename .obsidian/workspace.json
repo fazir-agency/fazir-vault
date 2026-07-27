@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "live-content/test-github-sync-$(date +%Y-%m-%d).md",
+                "file": "_Shared/_active/Best AI Tools 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test-github-sync-$(date +%Y-%m-%d)"
+              "title": "Best AI Tools 2026"
             }
           }
         ]
@@ -201,12 +201,13 @@
   },
   "active": "10ce6fa7510883d2",
   "lastOpenFiles": [
+    "_Shared/_active/hindsight-intel-2026-06-11.md",
+    "_Shared/_active/hindsight-intel-2026-06-20.md",
+    "live-content/test-github-sync-$(date +%Y-%m-%d).md",
     "live-content/competitors/_INDEX.md",
     "_Shared/_active/README.md",
-    "_Shared/_active/hindsight-intel-2026-06-20.md",
     "_Shared/_active/hindsight-intel-2026-06-14.md",
     "_Shared/_active/hindsight-intel-2026-06-12.md",
-    "_Shared/_active/hindsight-intel-2026-06-11.md",
     "test-sync.md",
     "test-sync-2.md",
     "strategy/multi-tier-memory-system.md",
@@ -214,7 +215,6 @@
     "strategy",
     "playbooks/runpod-comfyui-setup.md",
     "playbooks",
-    "live-content/test-github-sync-$(date +%Y-%m-%d).md",
     "_Shared/_active/hindsight-intel-2026-06-19.md",
     "_Shared/_active/hindsight-intel-2026-06-18.md",
     "_Shared/_active/hindsight-intel-2026-06-17.md",
