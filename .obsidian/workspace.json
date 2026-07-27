@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test-sync.md",
+                "file": "live-content/test-github-sync-$(date +%Y-%m-%d).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test-sync"
+              "title": "test-github-sync-$(date +%Y-%m-%d)"
             }
           }
         ]
@@ -201,6 +201,13 @@
   },
   "active": "10ce6fa7510883d2",
   "lastOpenFiles": [
+    "live-content/competitors/_INDEX.md",
+    "_Shared/_active/README.md",
+    "_Shared/_active/hindsight-intel-2026-06-20.md",
+    "_Shared/_active/hindsight-intel-2026-06-14.md",
+    "_Shared/_active/hindsight-intel-2026-06-12.md",
+    "_Shared/_active/hindsight-intel-2026-06-11.md",
+    "test-sync.md",
     "test-sync-2.md",
     "strategy/multi-tier-memory-system.md",
     "strategy/model-switching-guide.md",
@@ -208,25 +215,20 @@
     "playbooks/runpod-comfyui-setup.md",
     "playbooks",
     "live-content/test-github-sync-$(date +%Y-%m-%d).md",
-    "_Shared/_active/hindsight-intel-2026-06-20.md",
     "_Shared/_active/hindsight-intel-2026-06-19.md",
     "_Shared/_active/hindsight-intel-2026-06-18.md",
     "_Shared/_active/hindsight-intel-2026-06-17.md",
     "_Shared/_active/Best AI Tools 2026.md",
-    "test-sync.md",
     "live-content/test-github-sync-2026-06-17.md",
-    "_Shared/_active/hindsight-intel-2026-06-11.md",
     "live-content/competitors/adipocyde.md",
     "_Shared/_active/hindsight-intel-2026-06-13.md",
     "_Shared/Demo-Workflow.md",
     "Welcome.md",
-    "_Shared/_active/README.md",
     "_Shared/_active",
     "_Shared",
     "live-content/products/_INDEX.md",
     "live-content/hooks/_INDEX.md",
     "live-content/funnels/_INDEX.md",
-    "live-content/competitors/_INDEX.md",
     "live-content/angles/_INDEX.md",
     "live-content/products",
     "live-content/hooks",
@@ -234,8 +236,6 @@
     "live-content/competitors",
     "live-content/angles",
     "live-content",
-    "FazirVault/live-content/products/_INDEX.md",
-    "FazirVault/live-content/hooks/_INDEX.md",
-    "FazirVault/live-content/funnels/_INDEX.md"
+    "FazirVault/live-content/products/_INDEX.md"
   ]
 }
