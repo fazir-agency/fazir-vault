@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Shared/_active/Best AI Tools 2026.md",
+                "file": "playbooks/runpod-comfyui-setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Best AI Tools 2026"
+              "title": "runpod-comfyui-setup"
             }
           }
         ]
@@ -201,6 +201,7 @@
   },
   "active": "10ce6fa7510883d2",
   "lastOpenFiles": [
+    "_Shared/_active/Best AI Tools 2026.md",
     "_Shared/_active/hindsight-intel-2026-06-11.md",
     "_Shared/_active/hindsight-intel-2026-06-20.md",
     "live-content/test-github-sync-$(date +%Y-%m-%d).md",
@@ -218,7 +219,6 @@
     "_Shared/_active/hindsight-intel-2026-06-19.md",
     "_Shared/_active/hindsight-intel-2026-06-18.md",
     "_Shared/_active/hindsight-intel-2026-06-17.md",
-    "_Shared/_active/Best AI Tools 2026.md",
     "live-content/test-github-sync-2026-06-17.md",
     "live-content/competitors/adipocyde.md",
     "_Shared/_active/hindsight-intel-2026-06-13.md",
