@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test-sync-2.md",
+                "file": "playbooks/runpod-comfyui-setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test-sync-2"
+              "title": "runpod-comfyui-setup"
             }
           }
         ]
@@ -57,7 +57,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -199,39 +201,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10ce6fa7510883d2",
+  "active": "1a82e1e12887663c",
   "lastOpenFiles": [
-    "_Shared/_active/Best AI Tools 2026.md",
-    "test-sync.md",
-    "live-content/test-github-sync-2026-06-17.md",
-    "_Shared/_active/hindsight-intel-2026-06-11.md",
-    "live-content/competitors/adipocyde.md",
-    "_Shared/_active/hindsight-intel-2026-06-13.md",
-    "_Shared/Demo-Workflow.md",
-    "Welcome.md",
-    "_Shared/_active/README.md",
-    "_Shared/_active",
-    "_Shared",
-    "live-content/products/_INDEX.md",
-    "live-content/hooks/_INDEX.md",
-    "live-content/funnels/_INDEX.md",
-    "live-content/competitors/_INDEX.md",
-    "live-content/angles/_INDEX.md",
-    "live-content/products",
-    "live-content/hooks",
-    "live-content/funnels",
-    "live-content/competitors",
-    "live-content/angles",
-    "live-content",
-    "FazirVault/live-content/products/_INDEX.md",
-    "FazirVault/live-content/hooks/_INDEX.md",
-    "FazirVault/live-content/funnels/_INDEX.md",
-    "FazirVault/live-content/competitors/adipocyde.md",
-    "FazirVault/live-content/competitors/_INDEX.md",
-    "FazirVault/live-content/angles/_INDEX.md",
-    "FazirVault/_Shared/_active/hindsight-intel-2026-06-11.md",
-    "FazirVault/_Shared/_active/README.md",
-    "FazirVault/live-content/products",
-    "FazirVault/live-content/hooks"
+    "Hermes/Staff-Bots-3/README.md",
+    "Hermes/Staff-Bots-3/TechOps.md",
+    "Hermes/Staff-Bots-3/Intelligence.md",
+    "Hermes/Staff-Bots-3/Creative.md",
+    "Hermes/Staff-Bots-3",
+    "Hermes/Staff-SOUL/README.md",
+    "Hermes/Staff-SOUL/video.md",
+    "Hermes/Staff-SOUL/trend.md",
+    "Hermes/Staff-SOUL/social.md",
+    "Hermes/Staff-SOUL/scriptwriter.md",
+    "Hermes/Staff-SOUL/research.md",
+    "Hermes/Staff-SOUL/report.md",
+    "Hermes/Staff-SOUL/ops.md",
+    "Hermes/Staff-SOUL/media-buyer.md",
+    "Hermes/Staff-SOUL/developer.md",
+    "Hermes/Staff-SOUL/designer.md",
+    "Hermes/Staff-SOUL/data-analyst.md",
+    "Hermes/Staff-SOUL/creative-strategist.md",
+    "Hermes/Staff-SOUL/copywriter.md",
+    "Hermes/Staff-SOUL/affiliate-manager.md",
+    "Hermes/Staff-SOUL/video/SOUL.md",
+    "Hermes/Staff-SOUL/video",
+    "Hermes/Staff-SOUL/trend/SOUL.md",
+    "Hermes/Staff-SOUL/trend",
+    "Hermes/Staff-SOUL/social/SOUL.md",
+    "Hermes/Staff-SOUL/social",
+    "Hermes/Staff-SOUL/scriptwriter/SOUL.md",
+    "Hermes/Staff-SOUL/scriptwriter",
+    "Hermes/Staff-SOUL/research/SOUL.md",
+    "Hermes/Staff-SOUL/research",
+    "Hermes/Staff-SOUL/report/SOUL.md",
+    "Hermes/Staff-SOUL/report",
+    "Hermes/Staff-SOUL/ops/SOUL.md",
+    "Hermes/Staff-SOUL/ops",
+    "Hermes/Staff-SOUL/media-buyer",
+    "Hermes/Staff-SOUL/developer"
   ]
 }
