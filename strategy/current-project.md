@@ -13,6 +13,8 @@ updated: 2026-08-20
 - **Own product** — Fazir Agency jual produk skincare anti-aging MILIK SENDIRI (own brand).
 - **BUKAN affiliate** — kita TIDAK promote produk orang lain untuk commission dalam projek ni. Kita jual & fulfill sendiri.
 - **Niche:** Skincare anti-aging, market Malaysia.
+- **Jenis produk:** ORAL SUPPLEMENT (bukan topical/serum/krim).
+- **Angle utama:** "Replace Injectable Drip" — position supplement oral sebagai pengganti injectable drip (PDRN / salmon DNA + GHK-Cu copper peptide) yang orang buat kat klinik aesthetic untuk anti-aging. Injectables ni mahal, kena cucuk, kena repeat. Produk kita = pengganti secara oral, lebih murah & senang.
 
 ## Apa Yang Berubah
 - Current project beralih dari fokus affiliate → jual produk sendiri (skincare anti-aging).
