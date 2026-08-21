@@ -8,6 +8,33 @@ status: VERIFIED 2026-08-21 (bukan anggaran baseline lagi)
 
 # KOL Discovery — Anti-Aging Oral Supplement "Replace Injectable Drip"
 
+> ⚠️ **PEMBETULAN 21 Ogos (Fazir):** Ranking asal salah — ia rank "siapa relevan dgn PDRN", BUKAN "siapa BOLEH jadi ambassador kita". Saringan KONFLIK mesti didahulukan sebelum reach. Siapa yang dah ada brand sendiri / dah jadi muka brand competitor = auto-gugur, tak kira berapa juta follower.
+
+## 🚫 KONFLIK SCREEN — Auto-gugur (brand sendiri / ambassador competitor)
+
+| KOL | Konflik | Status |
+|---|---|---|
+| Scha Alyahya | Ambassador Merz Aesthetics (Ultherapy PRIME + PDRN mask) + co-host Wardah | ❌ TERKUNCI competitor |
+| Ustazah Asma' Harun | Brand sendiri "Asma Harun" (halal beauty No.1) | ❌ Pesaing |
+| Siti Nurhaliza | Brand sendiri SimplySiti | ❌ Pesaing |
+| Neelofa | Brand sendiri Naelofar | ❌ Pesaing |
+| Khairul Aming | Brand sendiri Sambal Nyet + content masak (off-topic) | ❌ |
+| Dr Shaaira Nasir | Wardah ambassador (dermatologist) | ❌ TERKUNCI |
+
+## ✅ VIABLE (belum terkunci — verify contract/exclusivity sebelum outreach)
+
+| KOL | Kenapa | Verify |
+|---|---|---|
+| Dr Say Shazril | doktor, content "Rahsia Kulit Muda" (authority, bukan reach) | brand sendiri? |
+| Dr Hana Rose | "celebrity doctor" aesthetic Sabah | contract sedia ada |
+| Dr Fauzan | doktor TikTok 233K | — |
+| Dr Syairah Nadia | aesthetic physician (collab device) | exclusivity |
+| Dr Ungku Shahrin | presiden badan doktor estetik (authority/credibility) | — |
+| Ayda Jebat | new mum angle, 5M | ambassador sedia ada |
+| Fazura / Nora Danish | 6-7M, booking tinggi | ambassador sedia ada |
+
+**Insight:** muka besar beauty semua dah diambil (brand sendiri atau ambassador). Whitespace sebenar = doktor/pharmacist authority yang belum terikat mana-mana brand.
+
 ## 💡 Top Insight (kemaskini 21 Ogos 2026)
 
 1. **Scha Alyahya tetap kunci emas (10/10).** IG 6M. Wave PDRN berterusan — kini aktif co-host "Skin Health Day" Wardah Beauty bersama Dr Shaaira Nasir (dermatologist) Ogos 2026. Position "replace injectable" = pivot paling natural.
