@@ -14,6 +14,10 @@ Semua knowledge marketing yang Fazir jumpa dalam IG, Facebook group, WhatsApp, d
 | `funnels/` | Struktur funnel, offer, upsell/downsell |
 | `case-studies/` | Case study, brand breakdown |
 | `competitor-swipe/` | Swipe file iklan/landing/content competitor |
+| `ads-ops/` 🎯 | **Operasi media buying** — SOP, budget scaling, metric, tracking, account health, seasonality, post-mortem |
+
+> 📌 `knowledge/` = **ILMU** (ilmu orang lain, dari IG/FB/group).
+> `knowledge/ads-ops/` = **OPERASI** (macam mana Fazir sebenarnya jalankan iklan, apa jadi, counter dia).
 
 ## Format Fail
 
